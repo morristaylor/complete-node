@@ -1,13 +1,4 @@
-// var obj = {
-//   name: 'Taylor'
-// };
-// var stringObj = JSON.stringify(obj);
-// console.log(typeof stringObj);
-// console.log(stringObj);
-//
-// var personString = '{"name": "Taylor", "age": 29}';
-// var person = JSON.parse(personString);
-// console.log(typeof person, person);
+// basic read/write using JSON with file system
 
 const fs = require('fs');
 
