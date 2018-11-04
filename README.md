@@ -7,4 +7,4 @@
 
 #### node-web-server is a web server built with Express and Handlebars. On October 28, 2018, I moved the remainder of the work for this app to [its own repo](https://github.com/morristaylor/node-web-server) so I could deploy it to the web using Heroku.
 
-#### node-tests is an exercise in testing with Mocha.
+#### node-tests is a testing exercise using Mocha with Expect and Rewire.
